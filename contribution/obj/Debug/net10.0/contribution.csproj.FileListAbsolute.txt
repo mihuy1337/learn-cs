@@ -1,0 +1,15 @@
+C:\projects\cs-course\contribution\bin\Debug\net10.0\contribution.exe
+C:\projects\cs-course\contribution\bin\Debug\net10.0\contribution.deps.json
+C:\projects\cs-course\contribution\bin\Debug\net10.0\contribution.runtimeconfig.json
+C:\projects\cs-course\contribution\bin\Debug\net10.0\contribution.dll
+C:\projects\cs-course\contribution\bin\Debug\net10.0\contribution.pdb
+C:\projects\cs-course\contribution\obj\Debug\net10.0\contribution.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\cs-course\contribution\obj\Debug\net10.0\contribution.AssemblyInfoInputs.cache
+C:\projects\cs-course\contribution\obj\Debug\net10.0\contribution.AssemblyInfo.cs
+C:\projects\cs-course\contribution\obj\Debug\net10.0\contribution.csproj.CoreCompileInputs.cache
+C:\projects\cs-course\contribution\obj\Debug\net10.0\contribution.dll
+C:\projects\cs-course\contribution\obj\Debug\net10.0\refint\contribution.dll
+C:\projects\cs-course\contribution\obj\Debug\net10.0\contribution.pdb
+C:\projects\cs-course\contribution\obj\Debug\net10.0\contribution.genruntimeconfig.cache
+C:\projects\cs-course\contribution\obj\Debug\net10.0\ref\contribution.dll
+C:\projects\cs-course\contribution\obj\Debug\net10.0\contribu.2465F997.Up2Date
